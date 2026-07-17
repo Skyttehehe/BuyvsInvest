@@ -1,0 +1,8 @@
+{
+  "name": "bolig-vs-investering",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "app:start": "bash scripts/start.sh"
+  }
+}
